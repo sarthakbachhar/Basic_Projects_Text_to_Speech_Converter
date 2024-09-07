@@ -19,7 +19,7 @@ This script converts text to speech using Google's Text-to-Speech API via the `g
 3. **Output**: The speech is saved as an MP3 file at the specified path.
 
 ## Example
-    ```bash
+    
     Text: Hello, It was raining all day. What about your place?
 
 The output audio will be saved as final.mp3.
